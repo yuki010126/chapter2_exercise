@@ -1,4 +1,20 @@
-# chapter2_exercise
+#
 
-# DMM WEBCAMPコンテンツ【HTML/CSSを学ぼう】
-DMM WEBCAMPの学習コンテンツHTML/CSSを学ぼうの２章演習課題。
+## 概要
+DMMWEBCAMP/1ヶ月目の課題。
+
+## 環境
+・HTML5</br>
+・CSS3
+
+## Gem
+・font-awesome</br>
+・refile/refile-mini_magic</br>
+・jquery-rails</br>
+
+
+
+
+
+
+
